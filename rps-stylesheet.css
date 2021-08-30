@@ -1,0 +1,32 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3 {
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.rock:hover {
+    background-color: #F04747;
+}
+.paper:hover {
+    background-color: #F04747;
+}
+.scissors:hover {
+    background-color: #F04747;
+}
